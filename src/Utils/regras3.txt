@@ -1,0 +1,22 @@
+Passo 2: Altera um pet cadastrado ✍️
+
+Permitir que o usuário altere os dados de um pet cadastrado.
+
+Regras ⚠️
+
+O usuário deverá BUSCAR seguindo os critérios da resposta anterior.
+Caso o usuário digite um número de busca inválido, o menu de busca deverá ser exibido novamente.
+O usuário receberá uma LISTA (igual a exibição anterior) com os resultados da busca, e deverá escolher o número do pet que deseja alterar.
+O usuário poderá alterar TODOS os dados do pet, EXCETO o TIPO E SEXO
+📍Passo 3: Deletar um animal cadastro 🔍
+
+O usuário, ao selecionar a opção de 4, deverá ser capaz de deletar o pet.
+
+Regras ⚠️
+
+O usuário deverá BUSCAR seguindo os critérios da resposta anterior.
+Caso o usuário digite um número de busca inválido, o menu de busca deverá ser exibido novamente.
+O usuário receberá uma LISTA (igual a exibição anterior) com os resultados da busca, e deverá escolher o número do pet que deseja deletar.
+O usuário deverá confirmar a exclusão do pet, digitando SIM ou NÃO.
+Só poderá ser deletado um pet por vez.
+Caso o usuário digite SIM, o pet deverá ser deletado e uma mensagem de sucesso deverá ser exibida.
